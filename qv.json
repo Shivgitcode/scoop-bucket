@@ -1,0 +1,22 @@
+{
+    "version": "2.0.3",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/shivgitcode/qv/releases/download/v2.0.3/qv_2.0.3_windows_amd64.zip",
+            "bin": [
+                "qv.exe"
+            ],
+            "hash": "654b01f48853bcfbdd3cfb4fd7f5376507dac4277fb934fc5d7ea8955ed32213"
+        },
+        "arm64": {
+            "url": "https://github.com/shivgitcode/qv/releases/download/v2.0.3/qv_2.0.3_windows_arm64.zip",
+            "bin": [
+                "qv.exe"
+            ],
+            "hash": "e304480f23dfe7dd5e7a17d586b69025111840f82f1ba99214657fbe55b8c565"
+        }
+    },
+    "homepage": "https://github.com/shivgitcode/qv",
+    "license": "MIT",
+    "description": "A CLI tool for quick variable management"
+}
