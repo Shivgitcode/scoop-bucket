@@ -1,19 +1,19 @@
 {
-    "version": "2.0.6",
+    "version": "2.0.7",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/shivgitcode/qv/releases/download/v2.0.6/qv_2.0.6_windows_amd64.zip",
+            "url": "https://github.com/shivgitcode/qv/releases/download/v2.0.7/qv_2.0.7_windows_amd64.zip",
             "bin": [
                 "qv.exe"
             ],
-            "hash": "109a0d1d70a8c633d923b8d73ee37bec5c92830715e150e8db51bf60b27978eb"
+            "hash": "7a060363bc5b90dbff8168be176b0d58a127b250fb2b7f86a82b7ada14f8302c"
         },
         "arm64": {
-            "url": "https://github.com/shivgitcode/qv/releases/download/v2.0.6/qv_2.0.6_windows_arm64.zip",
+            "url": "https://github.com/shivgitcode/qv/releases/download/v2.0.7/qv_2.0.7_windows_arm64.zip",
             "bin": [
                 "qv.exe"
             ],
-            "hash": "ded99f94ad8f58780a5a76d93d500e7a5231baa3ad2641064363a59e3deffb0d"
+            "hash": "71eb8aa1de2af2f8e1da972a1e37bdf15ed02b962bf3c5bfbc5c051d50404559"
         }
     },
     "homepage": "https://github.com/shivgitcode/qv",
